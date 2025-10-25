@@ -1,16 +1,75 @@
 <h1 align="center">Hi 👋, I'm Malindu Shasan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Loves+Coding;Learning+New+Tech&center=true&width=500&height=50" alt="Typing SVG"/>
+</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malindushasan&label=Profile%20views&color=0e75b6&style=flat" alt="malindushasan" /> </p>
-
-- 🌱 I’m currently learning **Java, C, Python**
-
-- 📫 How to reach me **malindushasan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/malindu-shasan-b00a10297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malindu shasan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malindushasan&label=Profile%20views&color=0e75b6&style=flat" alt="malindushasan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">About Me</h3>
+<p align="center">
+  🌱 I’m currently learning <b>Java, C, Python</b> <br>
+  📫 Reach me at <b>malindushasan@gmail.com</b>
+</p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/malindu-shasan-b00a10297" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/malindushasan" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">GitHub Trophies 🏆</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malindushasan&theme=radical&row=1&column=5" />
+</p>
+
+---
+
+<h3 align="center">My Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-70%25-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-65%25-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-60%25-orange?style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">GitHub Activity Graph 📊</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=malindushasan&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">Visitor Count 👀</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/malindushasan/count.svg" />
+</p>
+
+---
+
+<h3 align="center">Fun Corner 😎</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="coding gif" width="400"/>
+</p>
+
+---
+
+<h3 align="center">Quote of the Day 🌟</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=autumn&theme=radical" alt="Quote of the day"/>
+</p>

@@ -29,10 +29,11 @@
 
 ---
 
-<h3 align="center">GitHub Trophies 🏆</h3>
+<h3 align="center">GitHub Achievements 🏆</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malindushasan&theme=radical&row=1&column=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinduShasan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -50,22 +51,22 @@
 
 <h3 align="center">GitHub Activity Graph 📊</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=malindushasan&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalinduShasan&theme=radical" alt="Activity Graph" width="600" />
 </p>
+
 
 ---
 
-<h3 align="center">Visitor Count 👀</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/malindushasan/count.svg" />
-</p>
+
 
 ---
 
 <h3 align="center">Fun Corner 😎</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="coding gif" width="400"/>
+  <!--<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="coding gif" width="400"/>-->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE5MXNhYzZ4dzV3ajhuZm1jaWNla2V1dXdqbnNieDl3Nnd0ZTBsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif" width="400"/>
 </p>
+
 
 ---
 
